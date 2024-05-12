@@ -834,4 +834,4 @@ async function insertQuranicVerses(db) {
 
 }
 
-main().catch(console.error);
+
